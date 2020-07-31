@@ -36,3 +36,7 @@ build/
 
 mvnw
 mvnw.cmd
+
+# System Files
+.DS_Store
+Thumbs.db
